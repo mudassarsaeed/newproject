@@ -1,0 +1,23 @@
+/*
+ Theme Name: Twenty Twenty-Five Child
+ Description: Child theme for Twenty Twenty-Five.
+ Author: Mudassar Saeed
+ Template: twentytwentyfive
+ Version: 1.0.0
+ */
+ .projects-archive {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.project-item {
+    border-bottom: 1px solid #ddd;
+    padding: 15px 0;
+}
+
+.pagination {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
